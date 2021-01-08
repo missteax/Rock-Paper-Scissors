@@ -9,7 +9,7 @@ The rules are:
 
 3)	If players decide to play similarly, the game it’s a **tie.**
 
-**Hints:**
+**<ins>Hints:</ins>**
 1. Create a list of play options. The are three possible plays “Rock”, “Paper” and “Scissors”.
 2. Setup your players. Assign random play to the computer randint (..)
 3. You can set up a count, count=1
